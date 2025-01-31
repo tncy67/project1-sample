@@ -1,0 +1,12 @@
+
+git checkout -b tiya    # will create and switch to the branch
+
+git checkout tiya   # it will create the branch
+git branch tiya   # to switch
+
+touch tiya.py  # create a py script
+touch tiya.ipynb # create a notebook
+
+
+git checkout main  # takes me to main branch
+git checkout tiya   # takes me to tiya branch
