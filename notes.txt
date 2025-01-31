@@ -1,0 +1,33 @@
+git clone https://github.com/tncy67/project1-sample.git
+
+git checkout -b ted   # will create and switch to the branch
+
+git checkout ted      # it will create the branch
+git branch ted        # to switch
+
+touch ted.py          # create a py script
+touch ted.ipynb       # crate a notebook
+
+git checkout main     # takes me to main branch
+git checkout ted      # takes me to ted branch
+
+git checkout -b development
+
+git checkout ted
+git add .
+git commit -m "added visual and cleaning"
+git commit -m "fixed yadayada function"
+git commit -m "added yayada paragraph to readme"
+git push -u origin ted 
+
+git checkout development
+git add .
+git commit -m "initial commit for development"
+git push -u origin development
+
+git branch  # you will see which branches you have at that moment
+git checkout main
+git pull 
+git branch
+git checkout dagim
+git checkout elena
