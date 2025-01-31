@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# additional ignorables
+config.py
+
+# csv to ignore
+resources
+
+tuncay.py

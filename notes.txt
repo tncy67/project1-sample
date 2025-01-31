@@ -1,0 +1,10 @@
+git clone https://github.com/tncy67/project1-sample.git
+
+git checkout -b ted   # will create and switch to the branch
+
+git checkout ted      # it will create the branch
+git branch ted        # to switch
+
+touch ted.py          # create a py script
+touch ted.ipynb       # crate a notebook
+

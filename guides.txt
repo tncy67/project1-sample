@@ -1,0 +1,14 @@
+main
+development
+user_branch
+features/feature1
+features/feature2
+hotfix/2025jan-bigfix
+
+
+
+main
+development
+matt
+ricia
+tiya
